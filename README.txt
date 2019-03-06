@@ -1,1 +1,0 @@
-This is recitation CSCI 3308: Section 108, Group 1's milestone submission repo.
